@@ -8,7 +8,7 @@
     "start": "node --max_old_space_size=8192 node_modules/@angular/cli/bin/ng serve -o",
     "serveProd": "ng serve --environment=prod",
     "build": "ng build --configuration=production --aot=true --optimization=true",
-    "build": "ng build --prod",
+    "build-prod": "ng build --prod",
     "test": "ng test",
     "e2e": "ng e2e",
     "format:fix": "pretty-quick --staged",
