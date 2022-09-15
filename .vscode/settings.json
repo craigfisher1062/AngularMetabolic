@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4e0e3b0e-80ce-4990-81b0-88acde63f91a/microsoft.web/sites/subscriptions/4e0e3b0e-80ce-4990-81b0-88acde63f91a/resourceGroups/Metabolica/providers/Microsoft.Web/sites/angularmetabolic",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
